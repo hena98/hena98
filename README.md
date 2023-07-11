@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=E97F7F&text=HENA's%WORLD&fontSize=30&stroke=00FF00)
+
 <!--
 **hena98/hena98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
