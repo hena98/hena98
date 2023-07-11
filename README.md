@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E97F7F&text=HENA's%WORLD&fontSize=30&stroke=00FF00)
 
 <!--
